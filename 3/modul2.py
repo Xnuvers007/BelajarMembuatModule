@@ -2,4 +2,4 @@ from modul import orang
 import modul
 
 print(orang["age"])
-modul.greeting("Xnuvers007")
+modul.salam("Xnuvers007")
